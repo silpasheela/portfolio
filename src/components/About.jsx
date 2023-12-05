@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in
+        I'm a self-taught software developer with experience in
         JavaScript, and expertise in MongoDB, React.js, Node.js, and
         Express.js. With a keen eye for detail and a strong foundation in both front-end and back-end technologies, 
         I specialize in creating seamless and user-centric digital experiences. 
