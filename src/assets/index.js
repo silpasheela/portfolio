@@ -25,10 +25,6 @@ import threejs from "./tech/threejs.svg";
 import allianz from "./company/allianz_new.png";
 import freelancer from "./company/freelancer1.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
 import netflix from "./tech/netflix-theme.png";
 import studiofitness from "./tech/studiofitness-theme.png";
 import timeshift from "./tech/timeshift-theme.png";
@@ -68,9 +64,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  carrent,
-  jobit,
-  tripguide,
   netflix,
   studiofitness,
   timeshift,
